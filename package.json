@@ -1,0 +1,24 @@
+{
+  "name": "cd-estudo",
+  "version": "1.0.0",
+  "description": "Projeto de estudo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianbrusch/cd-estudo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianbrusch/cd-estudo/issues"
+  },
+  "homepage": "https://github.com/willianbrusch/cd-estudo#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
